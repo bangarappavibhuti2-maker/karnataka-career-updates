@@ -1,0 +1,6 @@
+{
+  "name": "Karnataka Career Updates",
+  "description": "Karnataka Government Jobs, Results, Admit Cards, Exam Notifications, Kannada & English career updates with Blogger website connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

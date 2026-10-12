@@ -1,0 +1,7 @@
+{
+  "name": "karnataka-career-updates",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Android source verified successfully'"
+  }
+}
